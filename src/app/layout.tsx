@@ -4,9 +4,10 @@ import { GeistMono } from "geist/font/mono";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.dev",
+  title: "Aditya Janager",
+  description:
+    "Portfolio of Aditya Janager, a passionate full-stack engineer specializing in building scalable, production-ready web applications with Next.js, React, Node.js, and cloud technologies.",
+  generator: "NextJs 14",
   icons: {
     icon: "/code.png",
     shortcut: "/code.png",
